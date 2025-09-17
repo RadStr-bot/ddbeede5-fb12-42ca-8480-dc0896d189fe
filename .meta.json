@@ -1,5 +1,5 @@
 {
-  "iri": "ddbeede5-fb12-42ca-8480-dc0896d189fe",
+  "iri": "ddbeede5-fb12-42ca-8480-dc0896d189fe-main",
   "projectIri": "ddbeede5-fb12-42ca-8480-dc0896d189fe",
   "types": [
     "http://dataspecer.com/resources/local/package"
@@ -9,11 +9,11 @@
     "description": {}
   },
   "metadata": {
-    "creationDate": "2025-09-17T15:03:46.634Z",
-    "modificationDate": "2025-09-17T15:05:11.904Z"
+    "creationDate": "2025-09-17T15:06:10.043Z",
+    "modificationDate": "2025-09-17T15:06:13.774Z"
   },
   "_version": 1,
   "_exportVersion": 1,
-  "_exportedAt": "2025-09-17T15:05:24.442Z",
+  "_exportedAt": "2025-09-17T15:06:40.408Z",
   "_exportedBy": "http://localhost:3100"
 }
